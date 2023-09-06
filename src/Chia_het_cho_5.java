@@ -1,4 +1,4 @@
-public class Chiahetcho5 {
+public class Chia_het_cho_5 {
     public static void main(String[] args) {
         System.out.println("Chia het cho 5: ");
         for (int i = 1; i <= 10; i++) {
